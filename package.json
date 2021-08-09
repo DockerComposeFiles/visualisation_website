@@ -1,0 +1,25 @@
+{
+  "name": "webstorm-template",
+  "version": "1.0.0",
+  "description": "npm initialisation for def template",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^6.14.6",
+    "sass": "^1.26.9",
+    "yuicompressor": "^2.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erth5/webstorm-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erth5/webstorm-template/issues"
+  },
+  "homepage": "https://github.com/erth5/webstorm-template#readme"
+}
