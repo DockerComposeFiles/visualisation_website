@@ -3,3 +3,6 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+#node_modules from webstorm project
+/webserver/visualizer/htdocs/node_modules/
